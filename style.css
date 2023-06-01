@@ -1,1 +1,38 @@
+h1 {text-align: center;
+border-style:groove;
+color:white;
+font-family:Georgia;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
 
+h2 {text-align:center;
+color:white;
+font-family:monospace;
+}
+p { font-size:1em;
+color:white;
+font-family:Georgia;    
+    
+}
+h3 {text-align: center;
+color:white;
+font-size:2em;
+
+}
+h4 {color:white;
+font-size:2em;
+}
+.academy {
+    background-color:white;
+    padding:1px;
+    clear:both;
+    color:mediumseagreen;
+    font-style:Georgia;
+    
+}
