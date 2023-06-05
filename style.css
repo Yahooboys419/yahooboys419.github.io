@@ -35,4 +35,35 @@ font-size:2em;
     color:mediumseagreen;
     font-style:Georgia;
     
+} 
+h1 {text-align: center;
+border-style:groove;
+color:white;
+font-family:Georgia;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+h2{text-align: center;
+
+color:white;
+font-family:Georgia;
+
+}
+
+p {font-family:monospace;
+color:white;
+font-size:1.2em;
+}
+h3 {text-align: center;
+color:white;
+font-family:Georgia;
+font-size:1.5em;
+}
+
+.Home {color:white;
+font-size:1.2em;
